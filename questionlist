@@ -1,0 +1,17 @@
+第一题使用的数据是：
+第二题使用的数据是：
+第三题使用的数据是：
+
+
+对于以上文字，你要按照我的任务列表使用R语言进行数据分析：
+#1.Import, check, and organise the data appropriately.
+#2.如果发现数据存在结构异常或者重复或者其它问题，那么对这个数据进行清理和修改。
+#3，Plot the data in a useful way. 注意 作图时要以合适的方法呈现这个数据，图表必须包含标题，标签，和原始数据点,如果表格也可以很好地表达信息也可以创建表格 
+#4.Choose the appropriate test 并且给出原因 
+#5， Justify your test choice  并给出佐证理由
+#6.State the statistical hypotheses 按照背景拟定合理的假设，给我正确的H0和HA
+#7，使用前面所选择的方法进行统计学分析来验证假设
+#8，如果需要的话，进行post-hoc test 
+#9，Present and discuss your results.  
+#10，What would you suggest doing next?  
+完成以上10步以后，将代码合并后输出，输出的代码块也要按照我给你的步骤进行输出，描述性的文本可以直接以注释的形式和代码一起输出。
